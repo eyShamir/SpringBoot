@@ -11,6 +11,7 @@ import java.util.Date;
 public class SpringBootController {
 
     private String FirstName ;
+    private String LastName;
 
     @Autowired
 
