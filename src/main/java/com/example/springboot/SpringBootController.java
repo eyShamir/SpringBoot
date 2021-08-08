@@ -13,6 +13,7 @@ public class SpringBootController {
     private String FirstName ;
     private String LastName;
     private String EmailAddress;
+    private String Address;
 
     @Autowired
 
